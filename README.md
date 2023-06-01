@@ -7,7 +7,7 @@ This project contain
 ,javascript
 ,php 
 
-I not use (Bootstrap) whole gui make by html and css 
+This project is not build with Bootstrap. Whole GUI is made by html and css 
 
 Login Page 
 -----------------
